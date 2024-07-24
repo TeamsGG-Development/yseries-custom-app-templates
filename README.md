@@ -12,7 +12,7 @@
 
 ## Documentation
 
-### Refer to our [documentation](https://docs.yseries.live/custom-apps) for more information on how to use the templates.
+### Refer to our [documentation](https://docs.yseries.live/phone/custom-apps) for more information on how to use the templates.
 
 Store: [Tebex](https://scripts.teamsgg.dev/)  
 Phone Preview [YSeries](https://yseries.live/)  
