@@ -5,7 +5,11 @@ title "YSeries - Custom App Template | React TS"
 description "A template for creating custom apps for the YSeries Phones."
 author "TeamsGG Development"
 
+version '1.1.0'
+
 client_script "client.lua"
+
+shared_script "config.lua"
 
 files {
     "ui/dist/**/*",
