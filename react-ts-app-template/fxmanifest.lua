@@ -7,9 +7,10 @@ author "TeamsGG Development"
 
 version '1.1.0'
 
+shared_script "config.lua"
+
 client_script "client.lua"
 
-shared_script "config.lua"
 
 files {
     "ui/dist/**/*",
